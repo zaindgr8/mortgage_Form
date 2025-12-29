@@ -5,7 +5,7 @@ This is the official mortgage application form for **Abu Ein Holding**, a premie
 ## Features
 - Modern, minimalist Next.js application.
 - Securely captures applicant details (Name, Contact).
-- Integrated with n8n webhook for automated lead processing.
+- Integrated with n8n webhook for automated lead processing.s
 - Optimized for Dubai and GCC markets.
 
 ## Getting Started
